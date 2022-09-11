@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/view"  android:title="View Profile" />
+    <item android:id="@+id/delete" android:title="Delete Profile" />
+    <item android:id="@+id/update" android:title="Update Profile" />
+    <item android:id="@+id/register" android:title="Register" />
+    <item android:id="@+id/viewall" android:title="View All " />
+    <item android:id="@+id/logout" android:title="Logout" />
+
+
+
+</menu>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304118379709",
+    "project_id": "tranning-74575",
+    "storage_bucket": "tranning-74575.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304118379709:android:d98493532979ec8ee633d4",
+        "android_client_info": {
+          "package_name": "com.example.registerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304118379709-bbk88ng1as3vk8jcbakd8s6c2m486vq9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.registerapp",
+            "certificate_hash": "fd877a42af2fb6bee82a8b066a59d6a186a7a7b4"
+          }
+        },
+        {
+          "client_id": "304118379709-p5bvsd34qo12amjn6tqejlmvdmrreiam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3t9NK8IwS6OmM9Qe_Ayz6ZFgxvE4bIZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304118379709-p5bvsd34qo12amjn6tqejlmvdmrreiam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
